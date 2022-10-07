@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.43020d2d.css",
+    "main.js": "/static/js/main.79675ce1.js",
+    "static/js/692.b3d93b61.chunk.js": "/static/js/692.b3d93b61.chunk.js",
+    "static/js/894.fe5e450d.chunk.js": "/static/js/894.fe5e450d.chunk.js",
+    "static/js/171.bf4d39ee.chunk.js": "/static/js/171.bf4d39ee.chunk.js",
+    "static/js/118.33c1ea47.chunk.js": "/static/js/118.33c1ea47.chunk.js",
+    "static/js/176.0f465049.chunk.js": "/static/js/176.0f465049.chunk.js",
+    "static/js/27.d8da6cb0.chunk.js": "/static/js/27.d8da6cb0.chunk.js",
+    "static/js/599.857bded5.chunk.js": "/static/js/599.857bded5.chunk.js",
+    "static/js/448.6219fef8.chunk.js": "/static/js/448.6219fef8.chunk.js",
+    "static/js/616.1f548e8b.chunk.js": "/static/js/616.1f548e8b.chunk.js",
+    "static/js/996.2f36738e.chunk.js": "/static/js/996.2f36738e.chunk.js",
+    "static/js/627.9e6248b0.chunk.js": "/static/js/627.9e6248b0.chunk.js",
+    "static/js/937.399081e0.chunk.js": "/static/js/937.399081e0.chunk.js",
+    "static/js/927.ad78d911.chunk.js": "/static/js/927.ad78d911.chunk.js",
+    "static/js/134.3db254f6.chunk.js": "/static/js/134.3db254f6.chunk.js",
+    "static/js/586.825ce58d.chunk.js": "/static/js/586.825ce58d.chunk.js",
+    "static/js/382.919de6e2.chunk.js": "/static/js/382.919de6e2.chunk.js",
+    "static/media/mobileBG.svg": "/static/media/mobileBG.ef73013779d14df8d885c7878b2015c2.svg",
+    "static/media/uni.svg": "/static/media/uni.f7ece5ee373ea5f9833bc659a9796ee5.svg",
+    "static/media/desktopBG.svg": "/static/media/desktopBG.281a451627bb97de2ec2cb8f60085e76.svg",
+    "static/media/newCry.svg": "/static/media/newCry.3078fd381b5a1715166f17a772d7a96b.svg",
+    "static/media/unicornMobile.png": "/static/media/unicornMobile.ce146a5f0216a7b4cb18.png",
+    "static/media/smallCrystal.svg": "/static/media/smallCrystal.8ef635dbd6712e721db3d4686f4f0f70.svg",
+    "static/media/largeCrystal.svg": "/static/media/largeCrystal.f6af8ebfc493255c6e0b3aba8daa7f3b.svg",
+    "static/media/crystal.svg": "/static/media/crystal.02e8935abd6911000b4752374cf903a1.svg",
+    "static/media/unicornHorse.png": "/static/media/unicornHorse.359e971cb8988acbf05c.png",
+    "static/media/Montserrat-SemiBold.ttf": "/static/media/Montserrat-SemiBold.d5e0cc788cba9ced1fb9.ttf",
+    "static/media/Montserrat-ExtraBold.ttf": "/static/media/Montserrat-ExtraBold.3a9ee100617f45a96d92.ttf",
+    "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/menu.svg": "/static/media/menu.f6c57e3c08d7d3c2bc177862c4d86004.svg",
+    "static/media/unicorn.svg": "/static/media/unicorn.2bbe7354f33ef7173041861063d529d5.svg",
+    "static/media/popupBG.svg": "/static/media/popupBG.55183f785aceab9443b57f314da0c191.svg",
+    "index.html": "/index.html",
+    "static/media/telegram.svg": "/static/media/telegram.130bb5064c7e0ab09391993a54a35a68.svg"
+  },
+  "entrypoints": [
+    "static/css/main.43020d2d.css",
+    "static/js/main.79675ce1.js"
+  ]
+}
