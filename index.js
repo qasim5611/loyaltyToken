@@ -75,7 +75,7 @@ app.use((error, req, res, next) => {
 //   });
 // });
 
-app.get("/", function (req, res) {
+app.get("/yes", function (req, res) {
   return res.send("yes");
 });
 
